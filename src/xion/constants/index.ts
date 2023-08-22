@@ -44,7 +44,7 @@ export const excludeList = [
   '0x0d548260cea4f4e129c79336ddbc3573c65ffe0a',
   '0xf4894288494d4d30bf1e00403b2d303f786af754',
   '0x17c15dedd3b55dde78295b3565f9b0bfea8937b9',
-  '0x04bDa42de3bc32Abb00df46004204424d4Cf8287',
+  '0x2621816be08e4279cf881bc640be4089bfaf491a',
 ];
 
 export const TOKEN_CONTRACT_ABI = [
